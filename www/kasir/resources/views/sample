@@ -1,0 +1,2 @@
+<input type="text" class="form-control" name="keyword" id="floatingInputGroup1" placeholder="Keyword">
+<button class="input-group-text btn btn-primary">

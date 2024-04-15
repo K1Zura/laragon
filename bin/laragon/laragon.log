@@ -1,0 +1,22 @@
+2023-12-13 11:33:48: Init DataDir at: D:\laragon\data\mysql-8
+2023-12-13 11:54:48: Oops! Not a right MySQL path! Please double check!
+D:\laragon\bin\mysql\mariadb-11.2.2-winx64
+Missing file: D:\laragon\bin\mysql\mariadb-11.2.2-winx64\bin\mysqld.exe
+2023-12-13 11:55:20: Oops! Not a right MySQL path! Please double check!
+D:\laragon\bin\mysql\mariadb-11.2.2-winx64
+Missing file: D:\laragon\bin\mysql\mariadb-11.2.2-winx64\bin\mysqld.exe
+2023-12-13 11:56:31: Oops! Not a right MySQL path! Please double check!
+D:\laragon\bin\mysql\mariadb-11.2.2-winx64
+Missing file: D:\laragon\bin\mysql\mariadb-11.2.2-winx64\bin\mysqld.exe
+2024-01-08 09:26:00: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2024-01-24 10:59:36: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2024-01-31 09:59:59: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2024-02-12 09:08:38: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2024-03-06 23:30:15: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2024-03-07 05:46:04: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 

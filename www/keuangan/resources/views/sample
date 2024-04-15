@@ -1,0 +1,5 @@
+Swal.fire(
+                            'Deleted!',
+                            'Data Anda sudah dihapus.',
+                            'success'
+                            );
